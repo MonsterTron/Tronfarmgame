@@ -1,0 +1,236 @@
+Uri: https://trongemers.club/en/index.html
+File Name: C:\Downloaded Web Sites\trongemers.club\en\index.html
+Content Type: text/html
+
+Uri: https://trongemers.club/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\trongemers.club\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://trongemers.club/js/slick/slick.css
+File Name: C:\Downloaded Web Sites\trongemers.club\js\slick\slick.css
+Content Type: text/css
+
+Uri: https://trongemers.club/js/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\trongemers.club\js\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://trongemers.club/css/style.css
+File Name: C:\Downloaded Web Sites\trongemers.club\css\style.css
+Content Type: text/css
+
+Uri: https://trongemers.club/css/media.css
+File Name: C:\Downloaded Web Sites\trongemers.club\css\media.css
+Content Type: text/css
+
+Uri: https://trongemers.club/img/favico.ico
+File Name: C:\Downloaded Web Sites\trongemers.club\img\favico.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://tronscan.org/
+File Name: C:\Downloaded Web Sites\trongemers.club\index.htm
+Content Type: text/html
+
+Uri: https://trongemers.club/en/game.html
+File Name: C:\Downloaded Web Sites\trongemers.club\en\game.html
+Content Type: text/html
+
+Uri: https://bitcointalk.org/index.php?topic=5123797.msg50277383
+File Name: C:\Downloaded Web Sites\trongemers.club\index.php.html
+Content Type: text/html
+
+Uri: https://trongemers.club/img/close.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\close.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon_faq.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon_faq.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/bg/burger.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\bg\burger.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/ru.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\ru.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/en.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\en.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/de.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\de.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/ch.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\ch.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/pl.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\pl.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/logo.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\logo.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/p2.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\p2.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/p3.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\p3.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/ris.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\ris.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/phen.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\phen.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/orange.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\orange.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/tea.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\tea.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/vino.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\vino.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/plant/koki.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\plant\koki.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/adv_image_2.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\adv_image_2.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/adv_image_22.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\adv_image_22.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/gift.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\gift.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/adv_image_1.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\adv_image_1.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/pers_3.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\pers_3.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/copyright.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\copyright.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/s1.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\s1.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/s2.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\s2.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\trongemers.club\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://trongemers.club/js/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\trongemers.club\js\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://chrome.google.com/webstore/detail/tronlink（波宝钱包）/ibnejdfjmmkpcnlpebklmnkoeoihofec
+File Name: C:\Downloaded Web Sites\trongemers.club\webstore\detail\tronlink（波宝钱包）\ibnejdfjmmkpcnlpebklmnkoeoihofec.html
+Content Type: text/html
+
+Uri: https://apps.apple.com/ru/app/tronwallet-mobile/id1412536016?l=en
+File Name: C:\Downloaded Web Sites\trongemers.club\ru\app\tronwallet-mobile\id1412536016.html
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=com.tronwallet2
+File Name: C:\Downloaded Web Sites\trongemers.club\store\apps\details.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/8NR5qRp
+File Name: C:\Downloaded Web Sites\trongemers.club\invite\8NR5qRp.html
+Content Type: text/html
+
+Uri: https://tele.click/tronland_chat_en
+File Name: C:\Downloaded Web Sites\trongemers.club\tronland_chat_en.html
+Content Type: text/html
+
+Uri: https://trongemers.club/img/icon/ico_money.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\ico_money.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st5.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st5.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st8.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st8.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/ico_top.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\ico_top.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/main.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\main.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st1.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st1.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st2.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st2.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st3.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st3.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st4.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st4.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/b1.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\b1.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/b2.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\b2.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st6.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st6.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/lk/st7.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\lk\st7.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/icon/p1.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\icon\p1.png
+Content Type: image/png
+
+Uri: https://trongemers.club/img/ico_bue.png
+File Name: C:\Downloaded Web Sites\trongemers.club\img\ico_bue.png
+Content Type: image/png
+
+Uri: https://trongemers.club/js/bn.min.js
+File Name: C:\Downloaded Web Sites\trongemers.club\js\bn.min.js
+Content Type: application/javascript
+
+Uri: https://trongemers.club/js/tron.js
+File Name: C:\Downloaded Web Sites\trongemers.club\js\tron.js
+Content Type: application/javascript
+
