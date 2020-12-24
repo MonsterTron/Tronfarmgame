@@ -17,7 +17,7 @@ async function main() {
         setTimeout(main, 1000);
     } else {
         tronWeb = window.tronWeb;
-        tronland = await tronWeb.contract().at("TELC4vPGrMPfKNjG7dkgujR2A3z74j66h2");
+        tronland = await tronWeb.contract().at("TAbuKuS4KG9UVUsjT5ai8VJA7kGouoVNRe");
         
         BigNumber = tronWeb.BigNumber;
         currentAddr = tronWeb.defaultAddress['base58'];
@@ -75,7 +75,7 @@ function mainloop() {
     });
 
     
-      tronWeb.trx.getBalance('TELC4vPGrMPfKNjG7dkgujR2A3z74j66h2').then(result => {
+      tronWeb.trx.getBalance('TAbuKuS4KG9UVUsjT5ai8VJA7kGouoVNRe').then(result => {
         contractBal = result;
         
     });
